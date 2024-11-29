@@ -21,7 +21,7 @@ colcon build
 source install/setup.bash
 
 
-##Running the Nodes
+## Running the Nodes
 ros2 run turtlesim turtlesim_node
 ros2 service call /spawn turtlesim/srv/Spawn "{x: 5.0, y: 5.0, theta: 0.0, name: 'turtle2'}"
 
