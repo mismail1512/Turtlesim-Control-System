@@ -16,10 +16,9 @@ This is a ROS 2 project that implements:
 - `turtlesim` package installed.
 
 ### Building the Package
-1. Clone this repository into your ROS 2 workspace:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+ Clone this repository into your ROS 2 workspace:
+colcon build
+source install/setup.bash
 
 
 ##Running the Nodes
