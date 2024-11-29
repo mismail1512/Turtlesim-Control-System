@@ -1,0 +1,24 @@
+[0.691s] Invoking command in '/home/mohamed/RT/src/assignment1_rt': PYTHONPATH=/home/mohamed/RT/build/assignment1_rt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mohamed/RT/install/assignment1_rt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/assignment1_rt build --build-base /home/mohamed/RT/build/assignment1_rt/build install --record /home/mohamed/RT/build/assignment1_rt/install.log --single-version-externally-managed
+[0.970s] running egg_info
+[0.971s] writing ../../build/assignment1_rt/assignment1_rt.egg-info/PKG-INFO
+[0.971s] writing dependency_links to ../../build/assignment1_rt/assignment1_rt.egg-info/dependency_links.txt
+[0.971s] writing entry points to ../../build/assignment1_rt/assignment1_rt.egg-info/entry_points.txt
+[0.971s] writing requirements to ../../build/assignment1_rt/assignment1_rt.egg-info/requires.txt
+[0.972s] writing top-level names to ../../build/assignment1_rt/assignment1_rt.egg-info/top_level.txt
+[0.975s] reading manifest file '../../build/assignment1_rt/assignment1_rt.egg-info/SOURCES.txt'
+[0.977s] writing manifest file '../../build/assignment1_rt/assignment1_rt.egg-info/SOURCES.txt'
+[0.977s] running build
+[0.977s] running build_py
+[0.977s] copying assignment1_rt/user_interface.py -> /home/mohamed/RT/build/assignment1_rt/build/lib/assignment1_rt
+[0.978s] running install
+[0.978s] running install_lib
+[0.979s] copying /home/mohamed/RT/build/assignment1_rt/build/lib/assignment1_rt/user_interface.py -> /home/mohamed/RT/install/assignment1_rt/lib/python3.10/site-packages/assignment1_rt
+[0.980s] byte-compiling /home/mohamed/RT/install/assignment1_rt/lib/python3.10/site-packages/assignment1_rt/user_interface.py to user_interface.cpython-310.pyc
+[0.981s] running install_egg_info
+[0.984s] removing '/home/mohamed/RT/install/assignment1_rt/lib/python3.10/site-packages/assignment1_rt-0.0.0-py3.10.egg-info' (and everything under it)
+[0.985s] Copying ../../build/assignment1_rt/assignment1_rt.egg-info to /home/mohamed/RT/install/assignment1_rt/lib/python3.10/site-packages/assignment1_rt-0.0.0-py3.10.egg-info
+[0.986s] running install_scripts
+[1.010s] Installing distance_check script to /home/mohamed/RT/install/assignment1_rt/lib/assignment1_rt
+[1.010s] Installing user_interface script to /home/mohamed/RT/install/assignment1_rt/lib/assignment1_rt
+[1.011s] writing list of installed files to '/home/mohamed/RT/build/assignment1_rt/install.log'
+[1.047s] Invoked command in '/home/mohamed/RT/src/assignment1_rt' returned '0': PYTHONPATH=/home/mohamed/RT/build/assignment1_rt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mohamed/RT/install/assignment1_rt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/assignment1_rt build --build-base /home/mohamed/RT/build/assignment1_rt/build install --record /home/mohamed/RT/build/assignment1_rt/install.log --single-version-externally-managed

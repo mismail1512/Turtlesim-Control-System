@@ -1,0 +1,4 @@
+[console_scripts]
+distance_check = assignment1_rt.distance_check:main
+user_interface = assignment1_rt.user_interface:main
+
